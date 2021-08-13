@@ -1,6 +1,6 @@
 # YmrtLibrary
-####一个WPF小控件库，目前只有一个控件
-#####在页面中写入以下代码：
+#### 一个WPF小控件库，目前只有一个控件
+##### 在页面中写入以下代码：
 ```
 <Grid>
         <Slider Maximum="100" Minimum="0" Width="600" x:Name="_Slider"/>
@@ -12,7 +12,7 @@
 ![avatar](https://github.com/Ymrt/YmrtLibrary/blob/master/image01.png)  
   
   
-#####改变它的值时会产生拖尾效果  
+##### 改变它的值时会产生拖尾效果  
   
 ![avatar](https://github.com/Ymrt/YmrtLibrary/blob/master/animation01.gif)
 
