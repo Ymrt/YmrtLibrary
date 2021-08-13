@@ -10,5 +10,6 @@
 </Grid>
 ```
 ![avatar](https://github.com/Ymrt/YmrtLibrary/blob/master/image01.png)
-![avatar](https://github.com/Ymrt/YmrtLibrary/blob/master/image01.png)
+改变它的值时会产生拖尾效果
+![avatar](https://github.com/Ymrt/YmrtLibrary/blob/master/animation01.gif)
 
